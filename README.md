@@ -6,7 +6,7 @@ Ask is simple script that the author made because they were annoyed that [prompt
 ## Usage
 You can pass your question as a string for the first parameter
 ```javascript
-const ask = require('ask');
+const ask = require('prompt-ask');
 
 ask('What is your name? ') // Ask for users name
     .then((name) = > {
@@ -15,7 +15,7 @@ ask('What is your name? ') // Ask for users name
 ```
 Ask has a few options available available which you can set as an object for the first parameter.
 ```javascript
-const ask = require('ask');
+const ask = require('prompt-ask');
 
 ask({
     question: 'What is your name? ',
@@ -34,7 +34,7 @@ The options are as followed:
 
 Ask also uses promisify to make it's results as a promise so `await` can work.
 ```javascript
-const ask = require('ask');
+const ask = require('prompt-ask');
 
 async function greetUser() {
     let name = await ask('What is your name? ')
