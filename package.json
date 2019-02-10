@@ -1,0 +1,21 @@
+{
+  "name": "ask",
+  "version": "0.0.0",
+  "description": "A simple and small command line prompt ",
+  "main": "ask.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "prompt",
+    "command-line",
+    "ask",
+    "input",
+    "readline"
+  ],
+  "author": "CrazyInfin8",
+  "license": "WTFPL",
+  "dependencies": {
+    "readline": "^1.3.0"
+  }
+}
