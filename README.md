@@ -1,4 +1,4 @@
-# Ask
+# Prompt-Ask
 ## a user prompt based on [prompt](https://www.npmjs.com/package/prompt)
 
 Ask is simple script that the author made because they were annoyed that [prompt](https://www.npmjs.com/package/prompt) always says `prompt:` everytime it asks the user for input and was lazy to find an alternative. This script is a bit smaller and simpler than [prompt](https://www.npmjs.com/package/prompt) but it only requires readline (which comes default on latest versions of node), and can do the simples things that prompt can do such like specifying prompt questions (without saying `prompt:` all the time), can validate its input (either with regex or a function), and can return promises that wprk with `await`
