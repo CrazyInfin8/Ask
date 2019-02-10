@@ -1,5 +1,5 @@
 {
-  "name": "ask",
+  "name": "prompt-ask",
   "version": "0.0.0",
   "description": "A simple and small command line prompt ",
   "main": "ask.js",
