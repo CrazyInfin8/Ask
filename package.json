@@ -21,10 +21,10 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/CrazyInfin8/Ask.git"
+    "url": "git+https://github.com/CrazyInfin8/Prompt-Ask"
   },
   "bugs": {
-    "url": "https://github.com/CrazyInfin8/Ask/issues"
+    "url": "https://github.com/CrazyInfin8/Prompt-Ask/issues"
   },
-  "homepage": "https://github.com/CrazyInfin8/Ask#readme"
+  "homepage": "https://github.com/CrazyInfin8/Prompt-Ask#readme"
 }
